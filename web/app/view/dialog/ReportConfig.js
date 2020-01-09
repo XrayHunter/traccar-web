@@ -71,7 +71,7 @@ Ext.define('Traccar.view.dialog.ReportConfig', {
         reference: 'showMarkersField',
         inputValue: true,
         uncheckedValue: false,
-        value: false
+        value: true
     }, {
         fieldLabel: Strings.reportPeriod,
         reference: 'periodField',
